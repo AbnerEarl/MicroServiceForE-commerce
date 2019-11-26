@@ -1,3 +1,4 @@
+
 -- 表结构（品牌表）
 DROP TABLE IF EXISTS `tb_brand`;
 CREATE TABLE `tb_brand` (
