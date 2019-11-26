@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leyouClient" />
+        <module name="leyouOrder" />
+        <module name="leyouServer" />
+        <module name="leyouStock" />
+        <module name="leyouStorage" />
+        <module name="leyouTimeServer" />
+        <module name="leyouUser" />
+        <module name="leyouZuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leyouClient" target="1.5" />
+      <module name="leyouOrder" target="1.5" />
+      <module name="leyouServer" target="1.5" />
+      <module name="leyouStock" target="1.5" />
+      <module name="leyouStorage" target="1.5" />
+      <module name="leyouTimeServer" target="1.5" />
+      <module name="leyouUser" target="1.5" />
+      <module name="leyouZuul" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
