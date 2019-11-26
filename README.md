@@ -2,9 +2,16 @@
 # MicroServiceForE-commerce
 通过SpringBoot、SpringCloud搭建微服务框架，集成Redis、RabbitMQ实现限流、解耦、异步、服务拆分，Eureka做服务注册，Zuul网关，前后端分离，RESTful接口风格。项目系统具体实现商品购物，在线商品秒杀系统，商品展示，库存服务，购物网站等功能。
 
+博客参照：https://blog.csdn.net/u014374009/article/details/103258939
 
-# 秒杀系统
 
+
+# 所需中间件
+中间件安装包、安装文档、完整打包下载：
+
+[https://download.csdn.net/download/u014374009/11998833](https://download.csdn.net/download/u014374009/11998833)
+
+[**点击下载**](https://download.csdn.net/download/u014374009/11998833)
 
 
 # 一、学习目标
